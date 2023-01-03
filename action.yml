@@ -1,6 +1,6 @@
 # action.yml
 name: 'Teo Vincent Hello World'
-icon: chevron-up
+icon: 'chevron-up'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
