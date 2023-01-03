@@ -3,8 +3,8 @@ name: 'Teo Vincent Hello World'
 description: 'Greet someone and record the time'
 author: 'Teo Vincent Artur Wincenciak'
 branding:
-  icon: 'thumbs-up'
-  color: 'white'
+  icon: 'terminal'
+  color: 'purple'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
