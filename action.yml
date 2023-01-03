@@ -10,6 +10,9 @@ inputs:
     description: 'Who to greet'
     required: true
     default: 'World'
+  some-second-arg:
+    description: 'Second argument'
+    default: 'Default value of second argument'
 outputs:
   time: # id of output
     description: 'The time we greeted you'
