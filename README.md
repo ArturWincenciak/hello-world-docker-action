@@ -6,7 +6,15 @@ This action prints "Hello World" or "Hello" + the name of a person to greet to t
 
 ## `who-to-greet`
 
-**Required** The name of the person to greet. Default `"World"`.
+**Required**.
+The name of the person to greet. 
+Default: `"World"`.
+
+## `some_second_arg`
+
+Not required.
+Second argument.
+Default: `"Default value of second argument"`.
 
 ## Outputs
 
