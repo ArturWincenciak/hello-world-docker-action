@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
-echo "Hello $1"
-echo "That is second arg: $2"
+echo "Hello $INPUT_WHO_TO_GREET"
+echo "That is second arg: $INPUT_SOME_SECOND_ARG"
 time=$(date)
 echo "time=$time" >> $GITHUB_OUTPUT

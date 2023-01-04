@@ -6,11 +6,11 @@ branding:
   icon: 'terminal'
   color: 'purple'
 inputs:
-  who-to-greet:  # id of input
+  who_to_greet:  # id of input
     description: 'Who to greet'
     required: true
     default: 'World'
-  some-second-arg:
+  some_second_arg:
     description: 'Second argument'
     default: 'Default value of second argument'
 outputs:
